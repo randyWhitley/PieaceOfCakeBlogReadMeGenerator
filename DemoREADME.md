@@ -1,8 +1,8 @@
-# blogging randy
+# Pieace of Cake Blogging Readme Generator. 
   
-  ![License:](https://img.shields.io/badge/Randy%20Whitley-apache,mit-brightgreen)
+  ![License:](https://img.shields.io/badge/Randy%20Whitley-mit,isc-brightgreen)
   ## Description:
-    blogg stuff
+    POCB will generate a README.md for a blogging website on GitHub using a node.js command-line application that receives user input from inquirer to create a README.md file for user repository. 
   # Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -13,19 +13,21 @@
   - [License](#license)
   - [Questions](#questions)
   ## Installation:
-    no
+    NPM install inquire and NPM init. 
   ## Usage:
-    in astrospace
+    Run the following command node index.js in terminal will answer the prompted questions. 
   ## Contributing:
-    Jeusus Muhammad 
+     https://github.com/Meechlouch
   ## Test:
-    with microchups
+    Use it.
   ## Credits:
-    God
+    Myself.
   ## License:
-  This project is subject to ![License: apache,mit](https://img.shields.io/badge/License-apache,mit-red)
+  This project is subject to ![License: mit,isc](https://img.shields.io/badge/License-mit,isc-red)
   ## Questions:
-  For additional questions, Get in touch at: email@email@email.GOd 
+  For additional questions, Get in touch at: randywhitley84@gmail.com 
 
-  Check out my [GitHub](https://github.com/Chub Bo)
-  GitHub [Repository](https://github.com/Chub Bo////  /// /// // / // / / / / / / 4);
+  Check out my [GitHub](https://github.com/https://github.com/randyWhitley )
+  GitHub [Repository](https://github.com/https://github.com/randyWhitley /https://github.com/randyWhitley/PieaceOfCakeBlogReadMeGenerator);
+
+  Demo: https://www.youtube.com/watch?v=uZ-iLrWETAk&feature=youtu.be
